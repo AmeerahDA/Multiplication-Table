@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Multiplication_Table\bin\Debug\net6.0\Multiplication_Table.exe
+C:\Users\DELL\Desktop\Multiplication_Table\bin\Debug\net6.0\Multiplication_Table.deps.json
+C:\Users\DELL\Desktop\Multiplication_Table\bin\Debug\net6.0\Multiplication_Table.runtimeconfig.json
+C:\Users\DELL\Desktop\Multiplication_Table\bin\Debug\net6.0\Multiplication_Table.dll
+C:\Users\DELL\Desktop\Multiplication_Table\bin\Debug\net6.0\Multiplication_Table.pdb
+C:\Users\DELL\Desktop\Multiplication_Table\obj\Debug\net6.0\Multiplication_Table.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Multiplication_Table\obj\Debug\net6.0\Multiplication_Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Multiplication_Table\obj\Debug\net6.0\Multiplication_Table.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Multiplication_Table\obj\Debug\net6.0\Multiplication_Table.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Multiplication_Table\obj\Debug\net6.0\Multiplication_Table.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Multiplication_Table\obj\Debug\net6.0\Multiplication_Table.dll
+C:\Users\DELL\Desktop\Multiplication_Table\obj\Debug\net6.0\refint\Multiplication_Table.dll
+C:\Users\DELL\Desktop\Multiplication_Table\obj\Debug\net6.0\Multiplication_Table.pdb
+C:\Users\DELL\Desktop\Multiplication_Table\obj\Debug\net6.0\Multiplication_Table.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Multiplication_Table\obj\Debug\net6.0\ref\Multiplication_Table.dll
